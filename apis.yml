@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://prexview.com
 common:
+  - type: DomainSecurity
+    url: security/prexview-domain-security.yml
   - type: Website
     url: https://prexview.com
   - type: PublicAPIsListing
