@@ -33,13 +33,13 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - PDF
+  - PDF Generation
 apis:
   - name: PrexView
     description: "Data from XML or JSON to PDF, HTML or Image"
     humanURL: https://prexview.com
-    baseURL: https://prexview.com
     tags:
       - Documents And Productivity
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
